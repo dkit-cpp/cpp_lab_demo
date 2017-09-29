@@ -10,7 +10,7 @@ int main(void) {
 
   for ( int k = 0 ; k < nMarks ; ++k ) {
     if ( has_passed(marks[k])) {
-    cout << marks[k] << endl;
+      cout << marks[k] << endl;
     }
   }
   
