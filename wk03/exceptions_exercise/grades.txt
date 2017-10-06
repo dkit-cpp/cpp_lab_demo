@@ -1,0 +1,4 @@
+peadar 10
+mary 12
+paul 70
+christian 95
